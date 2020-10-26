@@ -1,6 +1,6 @@
 {
-    "name": "silex/silex",
-    "description": "The PHP micro-framework based on the Symfony Components",
+    "name": "uetiko/silex",
+    "description": "The PHP micro-framework based on the Symfony2 Components",
     "keywords": ["microframework"],
     "homepage": "https://silex.symfony.com",
     "license": "MIT",
